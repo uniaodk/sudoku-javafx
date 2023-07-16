@@ -10,7 +10,7 @@ Sudoku game with generator, import and solver.
 
 To run must has the JavaFX library and run the follown script.
 
-    java --module-path "%JAVAFX_LIB%" --add-modules javafx.base,javafx.controls -jar sudoku-1.0.jar
+    java --module-path "%JAVAFX_LIB%" --add-modules javafx.base,javafx.controls,javafx.fxml -jar sudoku-1.0.jar
 
 ## Import - Sudoku Fields
 
