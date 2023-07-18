@@ -16,6 +16,8 @@ To run must has the JavaFX library and run the follown script.
 
 To import the sudoku fields, must edit the text area and paste/type the puzzle. Does'nt matter if has any letter or symbols, will only accept numbers.
 
+"0' (Zero) or "_" (underscore) = empty field
+
     // Example
     int[][] puzzle = {{0,8,0,0,0,5,0,0,0},
                      {0,3,9,2,0,1,0,8,7},
